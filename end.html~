@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<meta name="description" content="" />
+		<meta name="keywords" content="michelle, yu, art, ccny" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+		<title>Catch Pokémon</title>
+
+		<link href='http://fonts.googleapis.com/css?family=VT323' rel='stylesheet' type='text/css'>
+		
+		<link rel="stylesheet" type="text/css" href="catch.css">
+</head>
+<body>
+
+        <div class="textbox"> <div class="text">
+The Pokémon got annoyed and escaped! 
+<br><a href='catch.html'>Better luck next time.</a>
+        </div> </div>
+
+        
+    </body>
+</html>
