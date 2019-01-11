@@ -23,7 +23,7 @@ overflow: auto;
 .textbox {
 background-image: url("text_box_template.png");
 background-repeat: no-repeat;
-background-size: 550px 610px;
+background-size: 550px 60px;
 background-color: white;
 position: fixed;
 margin-left: 50%;
