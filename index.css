@@ -13,10 +13,11 @@ font-family: 'VT323', sans-serif;
 font-size: 20px;
 line-height: 30px;
 letter-spacing: 2px;
-width: 490px;
-height: 580px;
+width: 450px;
+height: 480px;
 padding: 30px;
 overflow: auto;
+margin: 20px;
 	}
 	
 
