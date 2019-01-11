@@ -14,7 +14,7 @@ font-size: 20px;
 line-height: 30px;
 letter-spacing: 2px;
 width: 490px;
-height: 600px;
+height: 500px;
 padding: 30px;
 overflow: auto;
 	}
@@ -28,7 +28,6 @@ background-color: white;
 position: fixed;
 margin-left: 50%;
 height: 560px;
-overflow: auto;
 		}
 		
 
