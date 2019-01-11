@@ -11,7 +11,7 @@ position:
 	bottom: 120px;
 	left: 10px;
 	-webkit-animation-name: example; /* -webkit- for Chrome, Safari, Opera */
-	-webkit-animation-duration: 18s; /* -webkit- for Chrome, Safari, Opera */
+	-webkit-animation-duration: 25s; /* -webkit- for Chrome, Safari, Opera */
 	-webkit-animation-iteration-count: infinite;
 	animation-name: example;
 	animation-duration: 8s;
