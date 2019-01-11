@@ -14,7 +14,7 @@ font-size: 20px;
 line-height: 30px;
 letter-spacing: 2px;
 width: 490px;
-height: 60px;
+height: 600px;
 padding: 30px;
 overflow: auto;
 	}
@@ -23,10 +23,12 @@ overflow: auto;
 .textbox {
 background-image: url("text_box_template.png");
 background-repeat: no-repeat;
-background-size: 550px 60px;
+background-size: 550px 600px;
 background-color: white;
 position: fixed;
 margin-left: 50%;
+height: 560px;
+overflow: auto;
 		}
 		
 
