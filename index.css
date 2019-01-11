@@ -13,10 +13,11 @@ font-family: 'VT323', sans-serif;
 font-size: 20px;
 line-height: 30px;
 letter-spacing: 2px;
-width: 490px;
-height: 500px;
+width: 450px;
+height: 480px;
 padding: 30px;
 overflow: auto;
+margin: 20px;
 	}
 	
 
@@ -27,7 +28,7 @@ background-size: 550px 600px;
 background-color: white;
 position: fixed;
 margin-left: 50%;
-height: 599px;
+height: 600px;
 		}
 		
 
