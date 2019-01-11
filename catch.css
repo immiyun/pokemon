@@ -14,7 +14,7 @@ position:
 	-webkit-animation-duration: 15s; /* -webkit- for Chrome, Safari, Opera */
 	-webkit-animation-iteration-count: infinite;
 	animation-name: example;
-	animation-duration: 3s;
+	animation-duration: 10s;
 	animation-iteration-count: infinite;
 }
 
@@ -43,7 +43,7 @@ position:
 	animation-name: doduo;
 	animation-duration: 5s;
 	animation-iteration-count: infinite;
-	animation-delay: 6s;
+	animation-delay: 15s;
 }
 
 /* Chrome, Safari, Opera - example is animation name */
@@ -72,7 +72,7 @@ position:
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-delay: 9s; /* Chrome, Safari, Opera */
 	animation-name: tepig;
-	animation-duration: 5s;
+	animation-duration: 20s;
 	animation-iteration-count: infinite;
 	animation-delay: 9s;
 }
