@@ -11,7 +11,7 @@ position:
 	bottom: 120px;
 	left: 10px;
 	-webkit-animation-name: example; /* -webkit- for Chrome, Safari, Opera */
-	-webkit-animation-duration: 8s; /* -webkit- for Chrome, Safari, Opera */
+	-webkit-animation-duration: 18s; /* -webkit- for Chrome, Safari, Opera */
 	-webkit-animation-iteration-count: infinite;
 	animation-name: example;
 	animation-duration: 8s;
@@ -37,7 +37,7 @@ position:
 	bottom: 100px;
 	left: -250px;
 	-webkit-animation-name: doduo; /* -webkit- for Chrome, Safari, Opera */
-	-webkit-animation-duration: 5s; /* -webkit- for Chrome, Safari, Opera */
+	-webkit-animation-duration: 15s; /* -webkit- for Chrome, Safari, Opera */
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-delay: 3s; /* Chrome, Safari, Opera */
 	animation-name: doduo;
